@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TravelMate AI — Multilingual Wikimedia Travel & Tourism Chatbot</title>
+    <meta name="description" content="Explore global destinations with TravelMate AI. Grounded travel answers powered by Wikipedia, Wikivoyage, and Wikimedia Commons media.">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome & Marked JS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <div class="app-layout">
+        <!-- Sidebar Navigation -->
+        <aside id="sidebar" class="sidebar">
+            <div class="sidebar-header">
+                <button id="newChatBtn" class="btn-new-chat">
+                    <i class="fa-solid fa-plus"></i>
+                    <span>New Trip Chat</span>
+                </button>
+                <button id="closeSidebarBtn" class="icon-btn mobile-only" title="Close Sidebar">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+
+            <!-- Quick Navigation Shortcuts -->
+            <div class="sidebar-nav-section">
+                <div class="nav-section-title">Views</div>
+                <button class="sidebar-nav-item active" data-view="chatView">
+                    <i class="fa-solid fa-comments"></i> TravelMate AI Chat
+                </button>
+                <button class="sidebar-nav-item" data-view="plannerView">
+                    <i class="fa-solid fa-route"></i> Trip Planner Wizard
+                </button>
+                <button class="sidebar-nav-item" data-view="explorerView">
+                    <i class="fa-solid fa-compass"></i> Destination Explorer
+                </button>
+            </div>
+
+            <!-- Popular Destinations Shortcuts -->
+            <div class="sidebar-nav-section">
+                <div class="nav-section-title">Popular Destinations</div>
+                <div class="popular-dest-list">
+                    <button class="quick-dest-btn" data-prompt="Tell me about Paris">🇫🇷 Paris</button>
+                    <button class="quick-dest-btn" data-prompt="What can I do in Tokyo?">🇯🇵 Tokyo</button>
+                    <button class="quick-dest-btn" data-prompt="Tell me about Dubai">🇦🇪 Dubai</button>
+                    <button class="quick-dest-btn" data-prompt="What is the history of Rome?">🇮🇹 Rome</button>
+                    <button class="quick-dest-btn" data-prompt="Tell me about the Taj Mahal">🇮🇳 Taj Mahal</button>
+                    <button class="quick-dest-btn" data-prompt="Tell me about New York">🇺🇸 New York</button>
+                </div>
+            </div>
+
+            <!-- Recent Chat History List -->
+            <div class="sidebar-history-section">
+                <div class="nav-section-header">
+                    <span class="nav-section-title">Recent Chats</span>
+                    <button id="clearHistoryBtn" class="btn-clear-history" title="Clear all history">
+                        <i class="fa-regular fa-trash-can"></i> Clear
+                    </button>
+                </div>
+                <div class="history-list" id="historyList">
+                    <!-- Populated dynamically -->
+                </div>
+            </div>
+
+            <!-- Sidebar User / Engine Footer -->
+            <div class="sidebar-footer">
+                <div class="user-pill">
+                    <div class="user-avatar">
+                        <i class="fa-solid fa-globe"></i>
+                    </div>
+                    <div class="user-info">
+                        <div class="user-name">TravelMate AI 1.0</div>
+                        <div class="user-status"><span class="status-dot"></span> Wikipedia & Wikivoyage APIs</div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Stage Canvas -->
+        <div class="main-stage">
+            <!-- Top Navbar Header -->
+            <header class="top-header">
+                <div class="header-left">
+                    <button id="toggleSidebarBtn" class="icon-btn" title="Toggle Sidebar">
+                        <i class="fa-solid fa-bars-staggered"></i>
+                    </button>
+
+                    <!-- Model Brand Selector Pill -->
+                    <div class="model-selector-pill">
+                        <i class="fa-solid fa-earth-americas brand-spark"></i>
+                        <span class="model-title">TravelMate AI</span>
+                        <span class="rag-badge"><i class="fa-solid fa-book-bookmark"></i> Wikimedia RAG</span>
+                    </div>
+                </div>
+
+                <div class="header-right">
+                    <!-- Debug Panel Toggle Button -->
+                    <button id="toggleDebugBtn" class="debug-btn" title="Developer Debug Panel">
+                        <i class="fa-solid fa-code"></i> Debug
+                    </button>
+
+                    <!-- Multilingual Dropdown Selector -->
+                    <div class="lang-selector-container">
+                        <i class="fa-solid fa-language lang-globe-icon"></i>
+                        <select id="uiLangSelect" class="styled-select">
+                            <option value="auto">🌐 Auto Detect Language</option>
+                            <option value="en">🇬🇧 English</option>
+                            <option value="te">🇮🇳 Telugu (తెలుగు)</option>
+                            <option value="hi">🇮🇳 Hindi (हिन्दी)</option>
+                            <option value="ta">🇮🇳 Tamil (தமிழ்)</option>
+                            <option value="kn">🇮🇳 Kannada (కన్నడ)</option>
+                            <option value="ml">🇮🇳 Malayalam (മലയാളം)</option>
+                            <option value="bn">🇮🇳 Bengali (বাংলা)</option>
+                            <option value="mr">🇮🇳 Marathi (मराठी)</option>
+                            <option value="es">🇪🇸 Spanish (Español)</option>
+                            <option value="fr">🇫🇷 French (Français)</option>
+                            <option value="de">🇩🇪 German (Deutsch)</option>
+                            <option value="ja">🇯🇵 Japanese (日本語)</option>
+                        </select>
+                    </div>
+
+                    <!-- Dark/Light Theme Toggle -->
+                    <button id="themeToggleBtn" class="icon-btn" title="Toggle Theme">
+                        <i class="fa-solid fa-moon"></i>
+                    </button>
+                </div>
+            </header>
+
+            <!-- Content Viewport -->
+            <div class="content-viewport">
+
+                <!-- VIEW 1: TRAVELMATE AI CHATBOT -->
+                <section id="chatView" class="view-panel active">
+                    <div class="chat-container">
+                        
+                        <!-- Welcome Hero Screen -->
+                        <div id="welcomeScreen" class="welcome-screen">
+                            <div class="welcome-badge">
+                                🌍 Wikimedia Travel Intelligence
+                            </div>
+                            <h1 class="welcome-title">Explore the World with AI ✈️</h1>
+                            <p class="welcome-subtitle">Ask anything about destinations, culture, history, food, transportation, and travel planning in 12+ languages. Powered by live Wikipedia, Wikivoyage & Wikimedia Commons media.</p>
+
+                            <!-- Suggested Questions Bar -->
+                            <div class="suggested-questions-row">
+                                <span class="suggest-label"><i class="fa-solid fa-wand-magic-sparkles"></i> Try asking:</span>
+                                <button class="suggest-pill" data-prompt="Best places to visit in India">Best places to visit in India</button>
+                                <button class="suggest-pill" data-prompt="Tell me about the Taj Mahal">Tell me about the Taj Mahal</button>
+                                <button class="suggest-pill" data-prompt="What can I do in Tokyo?">What can I do in Tokyo?</button>
+                                <button class="suggest-pill" data-prompt="What is the history of Rome?">What is the history of Rome?</button>
+                                <button class="suggest-pill" data-prompt="What food is famous in Italy?">What food is famous in Italy?</button>
+                                <button class="suggest-pill" data-prompt="Give me a 3-day itinerary for Paris">Give me a 3-day Paris itinerary</button>
+                                <button class="suggest-pill" data-prompt="తాజ్ మహల్ గురించి చెప్పండి">తాజ్ మహల్ గురించి చెప్పండి (Telugu)</button>
+                            </div>
+
+                            <!-- Suggestion Cards Grid -->
+                            <div class="suggestion-grid">
+                                <div class="suggestion-card" data-prompt="Tell me about Paris">
+                                    <div class="card-icon">🗼</div>
+                                    <div class="card-title">Paris, France</div>
+                                    <div class="card-desc">Eiffel Tower, Louvre Museum, French bakeries & culture</div>
+                                </div>
+
+                                <div class="suggestion-card" data-prompt="What can I do in Tokyo?">
+                                    <div class="card-icon">🇯🇵</div>
+                                    <div class="card-title">Tokyo, Japan</div>
+                                    <div class="card-desc">Sensō-ji Temple, Shibuya Crossing, Sushi & Akihabara</div>
+                                </div>
+
+                                <div class="suggestion-card" data-prompt="Tell me about the Taj Mahal">
+                                    <div class="card-icon">🕌</div>
+                                    <div class="card-title">Taj Mahal, India</div>
+                                    <div class="card-desc">Mughal architecture history, Agra travel & photography</div>
+                                </div>
+
+                                <div class="suggestion-card" data-prompt="Give me a 3-day itinerary for Rome">
+                                    <div class="card-icon">🏛️</div>
+                                    <div class="card-title">Rome, Italy</div>
+                                    <div class="card-desc">Colosseum, Vatican City, Roman history & Italian pasta</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Chat Messages Container -->
+                        <div id="chatMessages" class="chat-messages hidden">
+                            <!-- Messages injected dynamically by JS -->
+                        </div>
+
+                        <!-- Floating Input Bar -->
+                        <div class="chat-input-wrapper">
+                            <form id="chatForm" class="chat-input-box">
+                                <button type="button" id="voiceMicBtn" class="input-action-btn mic-btn" title="Voice Input (Speech Recognition)">
+                                    <i class="fa-solid fa-microphone"></i>
+                                </button>
+
+                                <textarea id="userInput" placeholder="Ask TravelMate AI anything... (e.g., Tell me about Paris or తాజ్ మహల్ గురించి చెప్పండి)" rows="1"></textarea>
+
+                                <button type="submit" id="sendBtn" class="input-send-btn" title="Send Message">
+                                    <i class="fa-solid fa-arrow-up"></i>
+                                </button>
+                            </form>
+
+                            <div id="recordingIndicator" class="recording-bar hidden">
+                                <span class="pulse-dot"></span> Listening to your speech... Speak your travel question!
+                            </div>
+
+                            <div class="chat-disclaimer">
+                                TravelMate AI grounds answers in live Wikipedia & Wikivoyage data. Wikimedia images are attributed to Wikimedia Commons contributors.
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- VIEW 2: TRIP PLANNER WIZARD -->
+                <section id="plannerView" class="view-panel">
+                    <div class="planner-container">
+                        <div class="panel-header">
+                            <h2><i class="fa-solid fa-wand-magic-sparkles"></i> AI Trip Itinerary & Budget Wizard</h2>
+                            <p>Generate a customized day-by-day travel plan based on your budget, travel style, and duration.</p>
+                        </div>
+
+                        <div class="planner-workspace">
+                            <div class="card planner-form-card">
+                                <h3>Itinerary Parameters</h3>
+                                <form id="plannerForm">
+                                    <div class="form-group">
+                                        <label for="planDest"><i class="fa-solid fa-location-dot"></i> Destination</label>
+                                        <input type="text" id="planDest" value="Paris" placeholder="e.g. Paris, Goa, Tokyo, Dubai, Rome" required>
+                                    </div>
+
+                                    <div class="form-row">
+                                        <div class="form-group half">
+                                            <label for="planDays"><i class="fa-solid fa-calendar-days"></i> Days</label>
+                                            <select id="planDays">
+                                                <option value="3" selected>3 Days (Short Trip)</option>
+                                                <option value="5">5 Days (Standard Trip)</option>
+                                                <option value="7">7 Days (Full Tour)</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group half">
+                                            <label for="planStyle"><i class="fa-solid fa-compass"></i> Style</label>
+                                            <select id="planStyle">
+                                                <option value="budget">Budget Explorer</option>
+                                                <option value="balanced" selected>Balanced</option>
+                                                <option value="luxury">Luxury</option>
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-row">
+                                        <div class="form-group half">
+                                            <label for="planBudget"><i class="fa-solid fa-wallet"></i> Budget</label>
+                                            <input type="number" id="planBudget" value="50000">
+                                        </div>
+                                        <div class="form-group half">
+                                            <label for="planCurrency"><i class="fa-solid fa-coins"></i> Currency</label>
+                                            <select id="planCurrency">
+                                                <option value="INR" selected>INR (₹)</option>
+                                                <option value="USD">USD ($)</option>
+                                                <option value="EUR">EUR (€)</option>
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                    <button type="submit" class="btn btn-primary full-width">
+                                        <i class="fa-solid fa-sparkles"></i> Generate Itinerary
+                                    </button>
+                                </form>
+                            </div>
+
+                            <div class="card planner-output-card" id="plannerOutputCard">
+                                <div id="plannerEmptyState" class="empty-state">
+                                    <div class="empty-spark-icon"><i class="fa-solid fa-map-location-dot"></i></div>
+                                    <h3>Ready to Plan Your Trip</h3>
+                                    <p>Select your destination and parameters to generate a custom itinerary.</p>
+                                </div>
+                                <div id="plannerResults" class="planner-results-wrapper hidden"></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- VIEW 3: DESTINATION EXPLORER -->
+                <section id="explorerView" class="view-panel">
+                    <div class="explorer-container">
+                        <div class="panel-header">
+                            <h2><i class="fa-solid fa-earth-americas"></i> Global Destination Explorer</h2>
+                            <p>Explore world destinations with verified tourism data.</p>
+                        </div>
+
+                        <div class="explorer-search-bar">
+                            <div class="search-input-box">
+                                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                                <input type="text" id="destSearchInput" placeholder="Filter by city, country or keyword...">
+                            </div>
+                            <div class="region-filter-pills" id="regionFilterTabs">
+                                <button class="filter-pill active" data-region="all">All Regions</button>
+                                <button class="filter-pill" data-region="India">India</button>
+                                <button class="filter-pill" data-region="Asia">Asia</button>
+                                <button class="filter-pill" data-region="Europe">Europe</button>
+                                <button class="filter-pill" data-region="Middle East">Middle East</button>
+                            </div>
+                        </div>
+
+                        <div class="destination-cards-grid" id="destinationGrid">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Dev Mode Debug Modal Drawer -->
+    <div id="debugModal" class="debug-modal hidden">
+        <div class="debug-modal-content">
+            <div class="debug-modal-header">
+                <h3><i class="fa-solid fa-bug"></i> TravelMate AI — Dev Mode Diagnostic Panel</h3>
+                <button id="closeDebugBtn" class="close-debug-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="debug-modal-body" id="debugModalBody">
+                <div class="debug-section">
+                    <h4>RAG Pipeline Execution Metrics</h4>
+                    <pre id="debugMetrics">No active query trace. Ask a question to view diagnostic payload.</pre>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Application JS -->
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

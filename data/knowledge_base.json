@@ -1,0 +1,1570 @@
+{
+  "destinations": [
+    {
+      "id": "dest_india_andhra_pradesh",
+      "destination": "Andhra Pradesh",
+      "country": "India",
+      "region": "India",
+      "category": "Spiritual Heritage, Beaches & Valleys",
+      "best_time_to_visit": "October to March (Pleasant winter weather 18-28°C)",
+      "weather": "Summer (32-42°C), Monsoon (July-Sept), Winter (18-28°C)",
+      "budget_range_usd": "25 - 75 USD per day",
+      "approx_budget_inr": "₹2,000 - ₹6,000 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required for international visitors.",
+      "local_transport": "APSRTC buses, South Central Railway, Visakhapatnam Metro/autos, local taxis",
+      "attractions": [
+        "1. Tirupati - Tirumala Venkateswara Temple (World's most visited spiritual shrine)",
+        "2. Visakhapatnam (Vizag) - RK Beach, Submarine Museum & Kailasagiri hilltop",
+        "3. Araku Valley - Picturesque coffee plantations & tribal museum",
+        "4. Borra Caves - Ancient natural limestone caves near Araku",
+        "5. Gandikota - 'Grand Canyon of India' with fort overlooking Pennar river gorge",
+        "6. Lepakshi - Hanging Pillar Temple & monolithic Nandi bull architecture",
+        "7. Vijayawada - Kanaka Durga Temple & Undavalli Rock-cut Caves",
+        "8. Srisailam - Mallikarjuna Jyotirlinga Temple & Tiger Reserve safari",
+        "9. Horsley Hills - Scenic hill station in Chittoor district",
+        "10. Belum Caves - Second largest cave system in Indian subcontinent"
+      ],
+      "hidden_gems": [
+        "Gandikota Gorge Fort sunset",
+        "Belum Caves underground passages",
+        "Maredumilli Eco-tourism forest trails"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Andhra Spicy Chicken Curry",
+          "Guntur Idli & Karam Dosa",
+          "Pesarattu Dosa",
+          "Royyala Iguru (Prawns)",
+          "Pootharekulu sweet"
+        ],
+        "vegetarian_vegan_options": "Andhra Veg Thali with Gongura Pachadi, Pappu (Dal), Avakaya Mango Pickle, Rasam, and Curd is 100% vegetarian staple.",
+        "popular_street_food": [
+          "Mirchi Bajji",
+          "Punugulu with coconut chutney",
+          "Uggani Bajji"
+        ],
+        "budget_food_tips": "Authentic spicy Andhra thali at local Messes costs ₹100-₹180."
+      },
+      "accommodations": {
+        "budget": "TTD Guest Houses in Tirupati & APTDC Haritha Resorts (₹600 - ₹1,800/night)",
+        "mid_range": "3-star hotels in Vizag & Vijayawada (₹2,500 - ₹5,000/night)",
+        "luxury": "Novotel Vizag Varun Beach & Taj Gateway (₹9,000+/night)"
+      },
+      "practical_tips": [
+        "Book Tirupati Balaji Darshan tickets online 2-3 months ahead on TTD official portal.",
+        "Take the Vistadome train coach from Vizag to Araku Valley for panoramic hill views."
+      ],
+      "safety_and_etiquette": "Very safe state. Follow traditional dress code at Hindu temples in Tirupati and Srisailam.",
+      "source": "Andhra Pradesh Tourism Development Corporation (APTDC) 2026",
+      "tags": [
+        "andhra pradesh",
+        "andhra",
+        "tirupati",
+        "vizag",
+        "araku",
+        "gandikota",
+        "lepakshi",
+        "srisailam",
+        "india",
+        "telugu",
+        "ఆంధ్రప్రదేశ్",
+        "తిరుపతి",
+        "విశాఖపట్నం",
+        "అరకు",
+        "आंध्र प्रदेश"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1627894483216-2138af692e32?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_telangana",
+      "destination": "Telangana & Hyderabad",
+      "country": "India",
+      "region": "India",
+      "category": "Historical Heritage & Culinary Hub",
+      "best_time_to_visit": "October to March (Comfortable winter weather, 18-28°C)",
+      "weather": "Summer (35-42°C, hot), Monsoon (July-Sept), Winter (15-28°C)",
+      "budget_range_usd": "25 - 75 USD per day",
+      "approx_budget_inr": "₹2,000 - ₹6,000 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "Hyderabad Metro Rail, Rapido bike taxis, Uber/Ola auto-rickshaws, TSRTC city buses",
+      "attractions": [
+        "1. Hyderabad - Charminar, Laad Bazaar, Chowmahalla Palace & Salar Jung Museum",
+        "2. Golconda Fort - Majestic citadel & evening Sound and Light Show",
+        "3. Ramoji Film City - World's largest film studio complex",
+        "4. Qutb Shahi Tombs - Intricate Indo-Islamic royal mausoleums",
+        "5. Hussain Sagar Lake & Buddha Statue - Sunset boat ride & Tank Bund",
+        "6. Warangal - UNESCO Thousand Pillar Temple & Kakatiya Kala Thoranam",
+        "7. Ramappa Temple (Palampet) - 13th-century UNESCO World Heritage floating brick temple",
+        "8. Nagarjuna Sagar & Buddhavanam - World's largest masonry dam & Buddhist heritage",
+        "9. Ananthagiri Hills - Vikarabad lush green nature getaway & Musi river origin",
+        "10. Kuntala Waterfalls - Highest waterfall in Telangana state"
+      ],
+      "hidden_gems": [
+        "Paigah Tombs intricate marble work",
+        "KBR National Park morning trail",
+        "Medak Cathedral church architecture"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Hyderabadi Dum Biryani",
+          "Haleem",
+          "Double ka Meetha",
+          "Mirchi ka Salan",
+          "Irani Chai with Osmania Biscuits"
+        ],
+        "vegetarian_vegan_options": "Famous Veg Dum Biryani, Khatti Dal, Paneer 65, Bagara Baingan; historic veg tiffin joints like Chutneys serve Guntur idli and 70mm Dosa.",
+        "popular_street_food": [
+          "Kubani ka Meetha",
+          "Dosa at Ram ki Bandi",
+          "Shawarma",
+          "Fruit Kulfi"
+        ],
+        "budget_food_tips": "Authentic world-class biryani at Hotel Shadab, Bawarchi, or Cafe Bahar costs ₹280-₹400."
+      },
+      "accommodations": {
+        "budget": "Budget hotels in Lakdikapul or Secunderabad (₹1,000 - ₹2,200/night)",
+        "mid_range": "3/4-star business hotels in Banjara Hills / Hitec City (₹3,500 - ₹6,500/night)",
+        "luxury": "Taj Falaknuma Palace (Palace stay) & Park Hyatt (₹25,000+/night)"
+      },
+      "practical_tips": [
+        "Visit Golconda Fort early in the morning to beat the afternoon heat.",
+        "Try authentic Irani Chai at Nimrah Cafe right opposite Charminar."
+      ],
+      "safety_and_etiquette": "Very welcoming city. Dress modestly when visiting active religious monuments.",
+      "source": "Telangana Tourism Board & Culinary Guild 2026",
+      "tags": [
+        "telangana",
+        "hyderabad",
+        "charminar",
+        "biryani",
+        "golconda",
+        "ramoji",
+        "warangal",
+        "telugu",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1605281317010-fe5ffe798166?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_rajasthan",
+      "destination": "Rajasthan",
+      "country": "India",
+      "region": "India",
+      "category": "Royal Palaces, Desert Safaris & Forts",
+      "best_time_to_visit": "October to March (Cool desert winter weather 12-25°C)",
+      "weather": "Summer (35-45°C, hot), Winter (8-24°C, cool & sunny)",
+      "budget_range_usd": "35 - 110 USD per day",
+      "approx_budget_inr": "₹3,000 - ₹9,000 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "RSRTC buses, Jaipur Metro, autorickshaws, heritage train rides, auto/car rentals",
+      "attractions": [
+        "1. Jaipur (Pink City) - Amber Fort, Hawa Mahal, City Palace & Jantar Mantar",
+        "2. Udaipur (City of Lakes) - Lake Palace, City Palace & Jag Mandir Lake Pichola",
+        "3. Jaisalmer (Golden City) - Jaisalmer Fort, Sam Sand Dunes desert safari & Havelis",
+        "4. Jodhpur (Blue City) - Mehrangarh Fort, Jaswant Thada & Umaid Bhawan Palace",
+        "5. Pushkar - Sacred Brahma Temple, Pushkar Lake & Annual Camel Fair",
+        "6. Ranthambore National Park - Royal Bengal Tiger jungle safari",
+        "7. Mount Abu - Only hill station in Rajasthan & Dilwara Jain Temples",
+        "8. Chittorgarh Fort - Largest fort complex in India",
+        "9. Bikaner - Junagarh Fort & Karni Mata Temple (Rat Temple)",
+        "10. Ajmer - Sharif Dargah & Ana Sagar Lake"
+      ],
+      "hidden_gems": [
+        "Bhangarh Fort (India's most haunted fort)",
+        "Abhaneri Chand Baori stepwell",
+        "Kumbhalgarh Fort wall"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Dal Baati Churma",
+          "Laal Maas (Mutton)",
+          "Gatte ki Sabzi",
+          "Pyaaz Kachori",
+          "Ghevar dessert"
+        ],
+        "vegetarian_vegan_options": "Dal Baati Churma, Ker Sangri, and Gatte ki Sabzi are staple vegetarian traditional Rajasthani dishes.",
+        "popular_street_food": [
+          "Mirchi Bada",
+          "Mawa Kachori",
+          "Kulhad Rabri"
+        ],
+        "budget_food_tips": "Enjoy Unlimited Thalis at Rawat Mishthan Bhandar or Laxmi Mishthan Bhandar (LMB) Jaipur."
+      },
+      "accommodations": {
+        "budget": "Heritage Hostels (Zostel Jaipur/Jaisalmer) (₹600 - ₹1,500/night)",
+        "mid_range": "Converted Haveli stays in Udaipur or Jodhpur (₹3,000 - ₹6,500/night)",
+        "luxury": "Umaid Bhawan Palace & Taj Lake Palace Udaipur (₹35,000+/night)"
+      },
+      "practical_tips": [
+        "Experience an overnight desert tent camping stay in Jaisalmer Sam Sand Dunes.",
+        "Bargain politely at Johari Bazaar and Bapu Bazaar in Jaipur."
+      ],
+      "safety_and_etiquette": "Hospitable local culture ('Padharo Mhare Des'). Keep water handy during daytime sightseeing.",
+      "source": "Rajasthan Tourism Development Corporation (RTDC) 2026",
+      "tags": [
+        "rajasthan",
+        "jaipur",
+        "udaipur",
+        "jaisalmer",
+        "jodhpur",
+        "pushkar",
+        "ranthambore",
+        "forts",
+        "desert",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1477587458883-47145ed94245?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_karnataka",
+      "destination": "Karnataka",
+      "country": "India",
+      "region": "India",
+      "category": "Heritage Ruins, Tech Hub, Coffee Hills & Beaches",
+      "best_time_to_visit": "October to March (Pleasant weather 18-28°C)",
+      "weather": "Summer (28-36°C), Monsoon (June-Sept), Winter (16-26°C)",
+      "budget_range_usd": "30 - 90 USD per day",
+      "approx_budget_inr": "₹2,500 - ₹7,500 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "KSRTC buses, Namma Metro Bengaluru, autos, taxis, coastal trains",
+      "attractions": [
+        "1. Hampi - UNESCO World Heritage boulder-strewn ruins of Vijayanagara Empire",
+        "2. Bengaluru - Silicon Valley of India, Lalbagh Botanical Garden & Bangalore Palace",
+        "3. Mysuru (Mysore) - Grand Mysore Palace, Chamundi Hill & Brindavan Gardens",
+        "4. Coorg (Madikeri) - Coffee plantations, Abbey Falls & Raja's Seat",
+        "5. Gokarna - Serene Om Beach, Kudle Beach & Mahabaleshwar Temple",
+        "6. Chikmagalur - Birthplace of Indian coffee, Mullayanagiri Peak hike",
+        "7. Badami, Pattadakal & Aihole - Ancient rock-cut cave temples & Chalukya heritage",
+        "8. Bandipur & Nagarhole National Parks - Tiger, Elephant & Leopard safaris",
+        "9. Jog Falls - Second highest plunge waterfall in India",
+        "10. Murudeshwar - World's second-tallest Shiva statue on Arabian sea coast"
+      ],
+      "hidden_gems": [
+        "Dandeli river rafting & hornbill sanctuary",
+        "Belur & Halebidu Hoysala carved temples",
+        "Agumbe rainforest"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Bisi Bele Bath",
+          "Mysore Masala Dosa",
+          "Neer Dosa",
+          "Coorg Pandi Curry",
+          "Mysore Pak sweet"
+        ],
+        "vegetarian_vegan_options": "Pure vegetarian South Indian tiffins (MTR, Vidyarthi Bhavan Dosa, Idli-Vada with Sambhar & Coconut Chutney) are world famous.",
+        "popular_street_food": [
+          "Mangalore Buns",
+          "Chow Chow Bath",
+          "Filter Coffee"
+        ],
+        "budget_food_tips": "Iconic joints like MTR Bengaluru or Brahmin's Coffee Bar serve breakfast for under ₹100."
+      },
+      "accommodations": {
+        "budget": "Backpacker hostels in Hampi & Gokarna (₹600 - ₹1,800/night)",
+        "mid_range": "Coffee plantation homestays in Coorg/Chikmagalur (₹3,000 - ₹6,000/night)",
+        "luxury": "Evolve Back Kabini/Coorg & The Lalit Ashok (₹18,000+/night)"
+      },
+      "practical_tips": [
+        "Rent a bicycle to explore the ancient ruins of Hampi.",
+        "Visit Mysore Palace on Sunday evening to see 100,000 illuminated light bulbs."
+      ],
+      "safety_and_etiquette": "Safe and tourist-friendly state. Respect sacred temple traditions.",
+      "source": "Karnataka Department of Tourism (KSTDC) 2026",
+      "tags": [
+        "karnataka",
+        "bengaluru",
+        "hampi",
+        "mysore",
+        "coorg",
+        "gokarna",
+        "chikmagalur",
+        "jog falls",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1600100397608-f010e423b961?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_kerala",
+      "destination": "Kerala",
+      "country": "India",
+      "region": "India",
+      "category": "Backwaters, Ayurveda, Tea Gardens & Nature",
+      "best_time_to_visit": "September to March (Pleasant green landscapes, ideal for houseboats)",
+      "weather": "Tropical climate (22-32°C). Monsoon (June-August, lush green & ideal for Ayurveda therapy)",
+      "budget_range_usd": "30 - 100 USD per day",
+      "approx_budget_inr": "₹2,500 - ₹8,000 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "KSRTC buses, prepaid taxis, auto-rickshaws, public ferry boats in Alleppey",
+      "attractions": [
+        "1. Alleppey (Alappuzha) - Houseboat cruise in Backwaters & Kuttanad paddy fields",
+        "2. Munnar - Endless Tea Plantations & Eravikulam National Park (Nilgiri Tahr)",
+        "3. Kochi (Cochin) - Fort Kochi, Chinese Fishing Nets, St. Francis Church & Mattancherry",
+        "4. Varkala - Cliffside beach overlooking Arabian sea & Janardanaswamy Temple",
+        "5. Wayanad - Edakkal Caves, Chembra Peak heart-shaped lake & Banasura Dam",
+        "6. Thekkady (Periyar) - Periyar Tiger Reserve lake boat safari & spice gardens",
+        "7. Kovalam - Lighthouse Beach, Samudra Beach & Ayurvedic wellness centers",
+        "8. Athirappilly - Scenic Waterfalls ('Niagara of India') near Thrissur",
+        "9. Kumarakom - Vembanad lake bird sanctuary & luxury backwater resorts",
+        "10. Poovar Island - Estuary where river, lake, sea, and beach meet"
+      ],
+      "hidden_gems": [
+        "Munroe Island canoe canal tour",
+        "Vagamon pine forests & rolling meadows",
+        "Bekal Fort seaside fortress"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Kerala Sadya (banana leaf feast)",
+          "Appam with Stew",
+          "Puttu & Kadala Curry",
+          "Karimeen Pollichathu",
+          "Malabar Parotta"
+        ],
+        "vegetarian_vegan_options": "Kerala Sadya offers 24 pure vegetarian/vegan coconut delicacies (Avial, Thoran, Olan, Payasam).",
+        "popular_street_food": [
+          "Pazham Pori (Banana fritters)",
+          "Hot Parippu Vada",
+          "Tender Coconut"
+        ],
+        "budget_food_tips": "Local eateries serve authentic Kerala rice thalis for ₹120-₹200."
+      },
+      "accommodations": {
+        "budget": "Homestays in Fort Kochi & Munnar (₹1,000 - ₹2,500/night)",
+        "mid_range": "Backwater guesthouses & 3-star resorts (₹3,500 - ₹7,500/night)",
+        "luxury": "Traditional Luxury Houseboat & Kumarakom Lake Resort (₹16,000+/night)"
+      },
+      "practical_tips": [
+        "Book a private houseboat overnight stay in Alleppey or Kumarakom.",
+        "Try an authentic Panchakarma Ayurvedic massage at an accredited clinic."
+      ],
+      "safety_and_etiquette": "Top literacy and safe environment. Remove shoes before entering homes & shrines.",
+      "source": "Kerala Tourism Department (God's Own Country) 2026",
+      "tags": [
+        "kerala",
+        "alleppey",
+        "munnar",
+        "kochi",
+        "varkala",
+        "wayanad",
+        "thekkady",
+        "backwaters",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_tamil_nadu",
+      "destination": "Tamil Nadu",
+      "country": "India",
+      "region": "India",
+      "category": "Dravidian Temples, Hill Stations & Cultural Heritage",
+      "best_time_to_visit": "October to March (Comfortable 18-28°C weather)",
+      "weather": "Tropical warm (24-38°C). Winter (18-28°C, pleasant)",
+      "budget_range_usd": "25 - 80 USD per day",
+      "approx_budget_inr": "₹2,000 - ₹6,500 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "TNSTC buses, Chennai Metro, Nilgiri Mountain Toy Train, autos, taxis",
+      "attractions": [
+        "1. Madurai - Meenakshi Amman Temple (Towering Gopurams & 1000-pillar hall)",
+        "2. Mahabalipuram (Mamallapuram) - UNESCO Shore Temple, Pancha Rathas & Butterball rock",
+        "3. Chennai - Marina Beach (World's 2nd longest urban beach), Kapaleeshwarar Temple & Fort St. George",
+        "4. Ooty (Udhagamandalam) - Nilgiri Mountain Railway toy train, Botanical Gardens & Ooty Lake",
+        "5. Kodaikanal - Star-shaped Kodai Lake, Coaker's Walk & Pillar Rocks",
+        "6. Rameswaram - Ramanathaswamy Temple (Longest temple corridor in world) & Pamban Bridge",
+        "7. Kanyakumari - Southernmost tip of Indian mainland, Vivekananda Rock & Thiruvalluvar Statue",
+        "8. Thanjavur (Tanjore) - UNESCO Brihadeeswarar Temple (Great Living Chola Temple)",
+        "9. Coimbatore - Isha Yoga Center (112-ft Adiyogi Shiva Statue)",
+        "10. Chidambaram & Tiruvannamalai - Nataraja Temple & Annamalaiyar Temple"
+      ],
+      "hidden_gems": [
+        "Chettinad heritage mansions & spicy cuisine",
+        "Dhanushkodi ghost town near Rameswaram",
+        "Yercaud hill station"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Idli Vada with Sambhar & Chutneys",
+          "Chettinad Chicken Curry",
+          "Kothu Parotta",
+          "Filter Coffee",
+          "Jigarthanda dessert in Madurai"
+        ],
+        "vegetarian_vegan_options": "Pure veg South Indian tiffins, Ven Pongal, Sambar Rice, Curd Rice, and Uttapam are universally served across Tamil Nadu.",
+        "popular_street_food": [
+          "Kothu Parotta",
+          "Madurai Jigarthanda",
+          "Murukku"
+        ],
+        "budget_food_tips": "Saravana Bhavan and local Annapoorna messes offer delicious pure veg meals under ₹120."
+      },
+      "accommodations": {
+        "budget": "Guesthouses near temple towns (₹800 - ₹2,000/night)",
+        "mid_range": "3-star city hotels & Ooty heritage lodges (₹2,500 - ₹5,500/night)",
+        "luxury": "Taj Connemara Chennai & Savoya Ooty (₹12,000+/night)"
+      },
+      "practical_tips": [
+        "Take the heritage UNESCO Nilgiri Mountain Toy Train from Mettupalayam to Ooty.",
+        "Temple dress code: Cover shoulders and knees when visiting active Hindu temples."
+      ],
+      "safety_and_etiquette": "Culturally rich and welcoming. Enjoy authentic Kumbakonam filter coffee.",
+      "source": "Tamil Nadu Tourism Development Corporation (TTDC) 2026",
+      "tags": [
+        "tamil nadu",
+        "chennai",
+        "madurai",
+        "mahabalipuram",
+        "ooty",
+        "kodaikanal",
+        "rameswaram",
+        "kanyakumari",
+        "temples",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_uttar_pradesh",
+      "destination": "Uttar Pradesh",
+      "country": "India",
+      "region": "India",
+      "category": "Spiritual Capital, Taj Mahal & Cultural Heritage",
+      "best_time_to_visit": "October to March (Cool winter weather 10-24°C)",
+      "weather": "Summer (35-45°C, hot), Winter (5-22°C, cool & foggy in Dec-Jan)",
+      "budget_range_usd": "25 - 80 USD per day",
+      "approx_budget_inr": "₹2,000 - ₹6,500 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "UPSRTC buses, Agra/Lucknow/Noida Metro, auto-rickshaws, Uber/Ola",
+      "attractions": [
+        "1. Agra - Taj Mahal (Wonder of the World), Agra Fort & Fatehpur Sikri",
+        "2. Varanasi (Kashi) - World's oldest living city, Kashi Vishwanath Temple & Ganga Aarti at Dashashwamedh Ghat",
+        "3. Ayodhya - Shri Ram Janmabhoomi Mandir, Kanak Bhawan & Saryu River Ghats",
+        "4. Mathura & Vrindavan - Krishna Janmabhoomi Temple, Banke Bihari Temple & Prem Mandir",
+        "5. Lucknow - City of Nawabs, Bara Imambara, Chota Imambara & Rumi Darwaza",
+        "6. Prayagraj (Allahabad) - Triveni Sangam (Confluence of Ganga, Yamuna & Saraswati) & Allahabad Fort",
+        "7. Sarnath - Deer Park where Buddha gave his first sermon & Ashoka Pillar site",
+        "8. Jhansi - Jhansi Fort & Rani Lakshmi Bai historical sights",
+        "9. Vindhyachal & Chitrakoot - Sacred pilgrimage sites along Mandakini river",
+        "10. Dudhwa National Park - Tiger, Rhinoceros & Swamp Deer jungle safari"
+      ],
+      "hidden_gems": [
+        "Fatehpur Sikri Panch Mahal sunset",
+        "Devdari Waterfall near Varanasi",
+        "Kachhpura village view of Taj Mahal"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Lucknawi Tunday Kababi",
+          "Galouti Kebab",
+          "Agra Petha sweet",
+          "Varanasi Tamatar Chaat",
+          "Banarasi Paan",
+          "Bedmi Puri with Aloo"
+        ],
+        "vegetarian_vegan_options": "Pure veg Mathura Peda, Banarasi Tamatar Chaat, Kachori Sabzi, Bedmi Puri, and Rabri Jalebi are staple food delights.",
+        "popular_street_food": [
+          "Banarasi Lassi in kulhad",
+          "Chowk Ki Malaiyyo",
+          "Lucknawi Basket Chaat"
+        ],
+        "budget_food_tips": "Famous street stalls in Varanasi and Lucknow offer world-famous street food delicacies under ₹50-₹150."
+      },
+      "accommodations": {
+        "budget": "Hostels in Varanasi (Hosteller, Zostel) & Agra guesthouses (₹600 - ₹1,800/night)",
+        "mid_range": "3-star hotels near Taj Mahal or Gomti Nagar Lucknow (₹2,500 - ₹5,500/night)",
+        "luxury": "Oberoi Amarvilas Agra (Taj view rooms) & Taj Mahal Lucknow (₹22,000+/night)"
+      },
+      "practical_tips": [
+        "Experience the sunset Ganges River boat ride in Varanasi to watch the evening Ganga Aarti.",
+        "Taj Mahal is closed on Fridays for visitors."
+      ],
+      "safety_and_etiquette": "Dress respectfully in religious temple towns.",
+      "source": "Uttar Pradesh Tourism Board 2026",
+      "tags": [
+        "uttar pradesh",
+        "up",
+        "varanasi",
+        "agra",
+        "taj mahal",
+        "ayodhya",
+        "lucknow",
+        "vrindavan",
+        "mathura",
+        "prayagraj",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_himachal_pradesh",
+      "destination": "Himachal Pradesh",
+      "country": "India",
+      "region": "India",
+      "category": "Alpine Mountains, Snow Sports & Valleys",
+      "best_time_to_visit": "March to June (Summer escapes) & December to February (Snowfall & skiing)",
+      "weather": "Summer (15-28°C), Winter (-5 to 12°C, snow in high peaks)",
+      "budget_range_usd": "30 - 90 USD per day",
+      "approx_budget_inr": "₹2,500 - ₹7,500 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "HRTC mountain buses, Kalka-Shimla Toy Train, private taxis, rented bikes",
+      "attractions": [
+        "1. Manali - Solang Valley snow adventure, Rohtang Pass, Hadimba Temple & Atal Tunnel",
+        "2. Shimla - Capital hill station, Mall Road, Jakhoo Temple & Ridge viewpoint",
+        "3. Dharamshala & McLeod Ganj - Dalai Lama Temple, Tsuglagkhang Complex & Bhagsu Waterfall",
+        "4. Spiti Valley - High altitude cold desert, Key Monastery, Chandratal Lake & Kibber",
+        "5. Kasol & Tosh - Parvati Valley nature trails, Manikaran Sahib Gurudwara hot springs",
+        "6. Dalhousie & Khajjiar - 'Mini Switzerland of India', pine forest meadows & Dainkund Peak",
+        "7. Kullu Valley - Beas river white water rafting & Dussehra festival grounds",
+        "8. Jibhi & Tirthan Valley - Great Himalayan National Park (UNESCO site) & trout fishing",
+        "9. Kaza & Hikkim - Fossil village & world's highest post office at Hikkim",
+        "10. Chamba - Ancient Lakshmi Narayan temple & Khajjiar lake landscape"
+      ],
+      "hidden_gems": [
+        "Sethan igloo village near Manali",
+        "Hikkim world's highest post office",
+        "Chanshal Pass untouched meadows"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Dham (Traditional thali feast)",
+          "Siddu (stuffed steamed bread)",
+          "Chha Gosht",
+          "Tibetan Thukpa & Momos"
+        ],
+        "vegetarian_vegan_options": "Himachali Dham (Rajma, Kadi, Madra cooked in brass pots), Siddu, and Tibetan Veg Thukpa/Momos are widely popular.",
+        "popular_street_food": [
+          "Steam hot Momos",
+          "Maggi noodles at mountain passes",
+          "Hot Butter Tea"
+        ],
+        "budget_food_tips": "Cafe culture in Kasol and McLeod Ganj serves wholesome meals for ₹200-₹350."
+      },
+      "accommodations": {
+        "budget": "Backpacker Hostels (Zostel Manali/Spiti) & Homestays (₹700 - ₹2,000/night)",
+        "mid_range": "Pine-wood mountain chalets & resorts (₹3,000 - ₹6,500/night)",
+        "luxury": "Wildflower Hall Shimla (Oberoi Resort) & Span Resort Manali (₹20,000+/night)"
+      },
+      "practical_tips": [
+        "Book Rohtang Pass permit online ahead of time if traveling to high mountain passes.",
+        "Pack warm thermal layers even in summer for high altitude trips like Spiti."
+      ],
+      "safety_and_etiquette": "Warm Himalayan hospitality. Avoid driving on mountain roads after dark.",
+      "source": "Himachal Pradesh Tourism Development Corporation (HPTDC) 2026",
+      "tags": [
+        "himachal pradesh",
+        "himachal",
+        "manali",
+        "shimla",
+        "dharamshala",
+        "spiti",
+        "kasol",
+        "khajjiar",
+        "dalhousie",
+        "snow",
+        "mountains",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_uttarakhand",
+      "destination": "Uttarakhand",
+      "country": "India",
+      "region": "India",
+      "category": "Land of Gods (Devbhoomi), Yoga, Trekking & Char Dham",
+      "best_time_to_visit": "March to June (Spring/Summer trekking) & September to November (Post-monsoon mountain views)",
+      "weather": "Summer (15-30°C), Monsoon (July-August, heavy rains), Winter (-2 to 15°C, snow)",
+      "budget_range_usd": "25 - 85 USD per day",
+      "approx_budget_inr": "₹2,000 - ₹7,000 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "GMVN buses, shared jeeps, taxis, Ganga river boats, trek ponies/palkis",
+      "attractions": [
+        "1. Rishikesh - Yoga capital of the world, Laxman Jhula, Beatles Ashram & White water river rafting",
+        "2. Haridwar - Har Ki Pauri ghat Ganga Aarti, Mansa Devi Temple & Kumbh Mela site",
+        "3. Nainital - Naini Lake boating, Mall Road, Naina Devi Temple & Snow View point",
+        "4. Mussoorie - 'Queen of the Hills', Kempty Falls, Mall Road & Gun Hill cable car",
+        "5. Auli - Premier skiing destination in India & Nanda Devi mountain peak views",
+        "6. Kedarnath & Badrinath - Sacred Char Dham Himalayan shrines",
+        "7. Jim Corbett National Park - India's oldest national park tiger safari",
+        "8. Valley of Flowers & Hemkund Sahib - UNESCO alpine floral trek",
+        "9. Ranikhet & Kausani - Panoramic 300km Himalayan snow peak views",
+        "10. Chopta & Tungnath - World's highest Shiva temple trek & Chandrashila summit"
+      ],
+      "hidden_gems": [
+        "Munsiyari Panchachuli peaks viewpoint",
+        "Binsar Wildlife Sanctuary forest walk",
+        "Kanatal quiet pine woods"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Aloo ke Gutke",
+          "Kafuli (Spinach & fenugreek curry)",
+          "Bhang ki Chutney",
+          "Chainsoo",
+          "Bal Mithai sweet"
+        ],
+        "vegetarian_vegan_options": "Rishikesh and Haridwar are 100% pure vegetarian & alcohol-free holy towns; Kafuli, Aloo ke Gutke, and Kumaoni Thalis are completely plant-based.",
+        "popular_street_food": [
+          "Hot Garhwali Puri Aloo",
+          "Singori sweet in malu leaf",
+          "Garhwal Tea"
+        ],
+        "budget_food_tips": "Ashram dining halls and local dhabas serve unlimited wholesome satvik thalis for ₹100-₹150."
+      },
+      "accommodations": {
+        "budget": "Yoga Ashrams in Rishikesh & GMVN Tourist Bungalows (₹500 - ₹1,800/night)",
+        "mid_range": "3-star hill resorts in Nainital/Mussoorie (₹2,500 - ₹5,500/night)",
+        "luxury": "Ananda in the Himalayas & JW Marriott Mussoorie (₹28,000+/night)"
+      },
+      "practical_tips": [
+        "Register online on Uttarakhand Yatra portal for Char Dham Kedarnath/Badrinath pilgrimage.",
+        "Rishikesh is world renowned for certified 200-hour Yoga Teacher Training courses."
+      ],
+      "safety_and_etiquette": "Respect holy rivers and ashram peace. Do not consume meat or alcohol in Haridwar and Rishikesh holy city zones.",
+      "source": "Uttarakhand Tourism Development Board (UTDB) 2026",
+      "tags": [
+        "uttarakhand",
+        "rishikesh",
+        "haridwar",
+        "nainital",
+        "mussoorie",
+        "auli",
+        "kedarnath",
+        "badrinath",
+        "corbett",
+        "yoga",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1609949279531-cf48d64bed89?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_maharashtra",
+      "destination": "Maharashtra",
+      "country": "India",
+      "region": "India",
+      "category": "Financial Capital, Cave Temples, Hill Stations & Forts",
+      "best_time_to_visit": "October to March (Pleasant weather 18-28°C)",
+      "weather": "Summer (30-38°C), Monsoon (June-Sept), Winter (16-28°C)",
+      "budget_range_usd": "35 - 110 USD per day",
+      "approx_budget_inr": "₹3,000 - ₹9,000 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "Mumbai Local Trains & Metro, MSRTC buses, Uber/Ola, auto-rickshaws",
+      "attractions": [
+        "1. Mumbai - Gateway of India, Marine Drive, Colaba, Chhatrapati Shivaji Terminus & Elephanta Caves",
+        "2. Pune - Shaniwar Wada, Aga Khan Palace & Sinhagad Fort",
+        "3. Ajanta & Ellora Caves (Aurangabad) - UNESCO World Heritage rock-cut Buddhist & Kailash temples",
+        "4. Lonavala & Khandala - Bhushi Dam, Karla Caves & Rajmachi Fort hill views",
+        "5. Mahabaleshwar & Panchgani - Strawberry farms, Elephant's Head Point & Venna Lake",
+        "6. Shirdi - Sai Baba Temple spiritual pilgrimage center",
+        "7. Alibaug - Kolaba Fort, Varsoli Beach & coastal beach getaway",
+        "8. Tadoba Andhari Tiger Reserve - Royal Bengal Tiger & leopard jungle safari",
+        "9. Nashik - Trimbakeshwar Jyotirlinga, Panchavati & Sula Vineyards wine tour",
+        "10. Matheran - Vehicle-free eco hill station with toy train"
+      ],
+      "hidden_gems": [
+        "Kalsubai Peak (Highest peak in Maharashtra)",
+        "Lonar Crater Lake (Impact crater lake)",
+        "Murud Janjira sea fort"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Vada Pav",
+          "Pav Bhaji",
+          "Misal Pav",
+          "Puran Poli",
+          "Bombil Fry",
+          "Modak sweet"
+        ],
+        "vegetarian_vegan_options": "Vada Pav, Pav Bhaji, Misal Pav, Puran Poli, and Kanda Poha are iconic 100% vegetarian Maharashtra staple dishes.",
+        "popular_street_food": [
+          "Mumbai Vada Pav",
+          "Pav Bhaji at Juhu Beach",
+          "Bhel Puri"
+        ],
+        "budget_food_tips": "Iconic street food stalls serve hot Vada Pav and Misal Pav for ₹20-₹60."
+      },
+      "accommodations": {
+        "budget": "Hostels in Mumbai/Pune (₹800 - ₹2,000/night)",
+        "mid_range": "3-star city hotels & hill resorts in Lonavala (₹3,000 - ₹6,500/night)",
+        "luxury": "The Taj Mahal Palace Mumbai & The Leela (₹25,000+/night)"
+      },
+      "practical_tips": [
+        "Take the morning ferry from Gateway of India to Elephanta Caves.",
+        "Experience Mumbai local train travel outside peak rush hours (11am - 4pm)."
+      ],
+      "safety_and_etiquette": "Energetic and welcoming state. Watch out for crowded train rush.",
+      "source": "Maharashtra Tourism Development Corporation (MTDC) 2026",
+      "tags": [
+        "maharashtra",
+        "mumbai",
+        "pune",
+        "ajanta",
+        "ellora",
+        "lonavala",
+        "mahabaleshwar",
+        "shirdi",
+        "nashik",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_gujarat",
+      "destination": "Gujarat",
+      "country": "India",
+      "region": "India",
+      "category": "White Desert, Asiatic Lions, Heritage & Temples",
+      "best_time_to_visit": "October to March (Cool desert winter season 15-28°C)",
+      "weather": "Summer (35-42°C), Winter (12-28°C, dry & pleasant)",
+      "budget_range_usd": "30 - 85 USD per day",
+      "approx_budget_inr": "₹2,500 - ₹7,000 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "GSRTC buses, Ahmedabad Metro, auto-rickshaws, rental cars",
+      "attractions": [
+        "1. Rann of Kutch - Great White Salt Desert & Rann Utsav cultural festival",
+        "2. Gir National Park - World's only natural habitat of Asiatic Lions",
+        "3. Statue of Unity (Kevadia) - World's tallest statue (182m) & Sarovar Dam",
+        "4. Somnath Temple - First among the 12 sacred Jyotirlinga shrines",
+        "5. Dwarka - Dwarkadhish Temple & Bet Dwarka island",
+        "6. Ahmedabad - Sabarmati Ashram, Adalaj Stepwell & UNESCO Heritage Old City",
+        "7. Modhera Sun Temple - 11th-century Solar Temple & Surya Kund stepwell",
+        "8. Champaner-Pavagadh - UNESCO Archaeological Park & hill temple",
+        "9. Saputara - Gujarat's sole hill station in the Sahyadri range",
+        "10. Bhuj - Aina Mahal, Prag Mahal & Kutchi handicraft villages"
+      ],
+      "hidden_gems": [
+        "Lothal ancient Harappan Indus Valley civilization site",
+        "Marine National Park Narara reef walk",
+        "Polo Forest greenery"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Gujarati Thali (Khadhi, Shaak, Rotli, Rice)",
+          "Dhokla",
+          "Khandvi",
+          "Fafda Jalebi",
+          "Undhiyu"
+        ],
+        "vegetarian_vegan_options": "Gujarat is world renowned for 100% vegetarian cuisine; full thalis, Dhokla, Handvo, and Fafda Jalebi are vegetarian staples.",
+        "popular_street_food": [
+          "Fafda Jalebi",
+          "Dabeli in Kutch",
+          "Locho in Surat"
+        ],
+        "budget_food_tips": "Authentic Gujarati Thali at Agashiye or Gordhan Thal costs ₹350-₹600."
+      },
+      "accommodations": {
+        "budget": "Hotels in Ahmedabad & tent stays in Bhuj (₹800 - ₹2,200/night)",
+        "mid_range": "Heritage Haveli stays & Gir lion resorts (₹3,000 - ₹6,500/night)",
+        "luxury": "Tent City Rann of Kutch & Taj Gateway Gir (₹15,000+/night)"
+      },
+      "practical_tips": [
+        "Visit Rann of Kutch during a full moon night for magical white salt desert views.",
+        "Book Gir Lion safari tickets online at least 30 days in advance."
+      ],
+      "safety_and_etiquette": "Gujarat is a dry state (alcohol restricted). Safe and peaceful environment.",
+      "source": "Gujarat Tourism Board (Khushboo Gujarat Ki) 2026",
+      "tags": [
+        "gujarat",
+        "kutch",
+        "rann of kutch",
+        "gir",
+        "statue of unity",
+        "somnath",
+        "dwarka",
+        "ahmedabad",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_west_bengal",
+      "destination": "West Bengal",
+      "country": "India",
+      "region": "India",
+      "category": "Cultural Capital, Tea Gardens, Tigers & Heritage",
+      "best_time_to_visit": "October to March (Pleasant winter weather 15-26°C)",
+      "weather": "Summer (30-38°C), Monsoon (June-Sept), Winter (12-24°C)",
+      "budget_range_usd": "25 - 80 USD per day",
+      "approx_budget_inr": "₹2,000 - ₹6,500 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "Kolkata Metro & Yellow Taxis, Tram system, NBSTC buses, Darjeeling Toy Train",
+      "attractions": [
+        "1. Kolkata - Victoria Memorial, Howrah Bridge, Dakshineswar Kali Temple & Park Street",
+        "2. Darjeeling - Tiger Hill sunrise over Kanchenjunga, Himalayan Toy Train & tea estates",
+        "3. Sundarbans National Park - UNESCO World Heritage mangrove forest & Royal Bengal Tiger boat safari",
+        "4. Kalimpong - Durpin Monastery, Deolo Hill & flower nurseries",
+        "5. Digha & Mandarmani - Popular sea beaches along Bay of Bengal",
+        "6. Shantiniketan - Rabindranath Tagore's Visva-Bharati University & Baul music",
+        "7. Murshidabad - Hazarduari Palace (Palace of 1000 doors) & Katra Mosque",
+        "8. Bishnupur - Terracotta temples & Baluchari silk sarees",
+        "9. Siliguri & Mirik - Gateway to North-East & Sumendu Lake",
+        "10. Dooars - Jaldapara National Park & elephant safaris"
+      ],
+      "hidden_gems": [
+        "Kurseong tea valley quiet walk",
+        "Lolegaon canopy rope walk",
+        "Cooch Behar Rajbari Palace"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Kolkata Biryani (with potato)",
+          "Machher Jhol (Fish curry)",
+          "Kosha Mangsho",
+          "Rosogolla sweet",
+          "Mishti Doi",
+          "Sondesh"
+        ],
+        "vegetarian_vegan_options": "Luchi with Alur Dom, Chholar Dal, Shukto, Rosogolla, and Mishti Doi are iconic vegetarian Bengali food items.",
+        "popular_street_food": [
+          "Kolkata Kathi Rolls",
+          "Puchka (Pani Puri)",
+          "Telebhaja fritters"
+        ],
+        "budget_food_tips": "Famous street stalls in Park Circus and College Street serve Kathi rolls and Puchka for ₹20-₹60."
+      },
+      "accommodations": {
+        "budget": "Hostels & heritage guesthouses in Kolkata/Darjeeling (₹700 - ₹2,000/night)",
+        "mid_range": "3-star city hotels & tea planter bungalows (₹2,500 - ₹5,500/night)",
+        "luxury": "The Oberoi Grand Kolkata & Windamere Hotel Darjeeling (₹15,000+/night)"
+      },
+      "practical_tips": [
+        "Experience the iconic UNESCO Darjeeling Himalayan Railway Toy Train ride.",
+        "Visit Kolkata during Durga Puja festival (Sept-Oct) for mega cultural pandal displays."
+      ],
+      "safety_and_etiquette": "Culturally vibrant and warm people. Enjoy traditional Bengali sweets.",
+      "source": "West Bengal Tourism Development Corporation (WBTDC) 2026",
+      "tags": [
+        "west bengal",
+        "bengal",
+        "kolkata",
+        "darjeeling",
+        "sundarbans",
+        "shantiniketan",
+        "digha",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_sikkim",
+      "destination": "Sikkim",
+      "country": "India",
+      "region": "India",
+      "category": "Organic Himalayan State, Monasteries & Snow Lakes",
+      "best_time_to_visit": "March to May (Spring blooms) & October to December (Clear mountain views)",
+      "weather": "Summer (15-22°C), Winter (-2 to 10°C, heavy snow in North Sikkim)",
+      "budget_range_usd": "35 - 95 USD per day",
+      "approx_budget_inr": "₹2,800 - ₹8,000 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required + Inner Line Permit (ILP) for restricted areas.",
+      "local_transport": "Shared Tata Sumo jeeps, private taxis, Gangtok ropeway",
+      "attractions": [
+        "1. Gangtok - MG Marg, Rumtek Monastery, Hanuman Tok & Cable Car ride",
+        "2. Tsomgo (Changu) Lake & Nathula Pass - High-altitude Indo-China border pass (14,140 ft)",
+        "3. Pelling - Skywalk, Pemayangtse Monastery & Kanchenjunga mountain view",
+        "4. Yumthang Valley & Lachung - 'Valley of Flowers' & Zero Point snow landscape",
+        "5. Ravangla - 130-ft Buddha Park statue surrounded by Himalayan peaks",
+        "6. Yuksom - First capital of Sikkim & Kanchenjunga trek base",
+        "7. Gurudongmar Lake - One of the highest sacred lakes in the world (17,800 ft)",
+        "8. Zuluk - Silk Route zigzag road loops & Thambi viewpoint",
+        "9. Namchi - Siddheshwar Dham (Char Dham replica) & Solophok hill",
+        "10. Teesta River - White-water rafting adventure from Melli"
+      ],
+      "hidden_gems": [
+        "Lachen village quiet valley",
+        "Tinkitam orchid valley",
+        "Barsey Rhododendron Sanctuary"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Steamed Momos",
+          "Thukpa noodle soup",
+          "Phagshapa",
+          "Sel Roti",
+          "Chhurpi cheese soup",
+          "Tongba millet beer"
+        ],
+        "vegetarian_vegan_options": "Veg Momos, Veg Thukpa, Gundruk soup, Sel Roti, and Chhurpi cheese dishes are widely available.",
+        "popular_street_food": [
+          "Hot Steamed Veg Momos",
+          "Wonton Soup",
+          "Chowmein"
+        ],
+        "budget_food_tips": "Local eateries on Gangtok MG Marg serve momos and thukpa for ₹100-₹180."
+      },
+      "accommodations": {
+        "budget": "Homestays in Lachung/Pelling & Gangtok hostels (₹800 - ₹2,000/night)",
+        "mid_range": "3-star mountain view hotels (₹3,000 - ₹6,000/night)",
+        "luxury": "Mayfair Spa Resort Gangtok & Elgin Mount Pandim Pelling (₹14,000+/night)"
+      },
+      "practical_tips": [
+        "Obtain Inner Line Permit (ILP) for visiting Nathula Pass and North Sikkim (Lachung/Lachen).",
+        "Sikkim is India's 100% organic state—plastic bottles are banned in many tourist zones."
+      ],
+      "safety_and_etiquette": "Extremely clean and peaceful Himalayan state.",
+      "source": "Sikkim Tourism Department 2026",
+      "tags": [
+        "sikkim",
+        "gangtok",
+        "nathula pass",
+        "pelling",
+        "yumthang",
+        "ravangla",
+        "gurudongmar",
+        "snow",
+        "mountains",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_assam",
+      "destination": "Assam",
+      "country": "India",
+      "region": "India",
+      "category": "Rhinos, River Island, Tea Estates & Temples",
+      "best_time_to_visit": "October to April (Pleasant weather, ideal for Kaziranga safaris)",
+      "weather": "Summer (25-32°C), Monsoon (May-Sept), Winter (10-22°C)",
+      "budget_range_usd": "25 - 80 USD per day",
+      "approx_budget_inr": "₹2,000 - ₹6,500 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "ASTC buses, Brahmaputra ferries, auto-rickshaws, rental cars",
+      "attractions": [
+        "1. Kaziranga National Park - UNESCO sanctuary home to 2/3rd of world's One-Horned Rhinos",
+        "2. Majuli - World's largest river island on Brahmaputra River & Neo-Vaishnavite Satras",
+        "3. Guwahati - Kamakhya Temple (Shakti Peeth), Umananda Peacock Island & Brahmaputra cruise",
+        "4. Manas National Park - UNESCO Tiger & Elephant Biosphere Reserve",
+        "5. Sivasagar - Ancient Ahom Kingdom palaces (Rang Ghar, Kareng Ghar)",
+        "6. Jorhat - Tea capital of Assam & Tocklai Tea Research Institute",
+        "7. Tezpur - Agnigarh hill park, Cole Park & Brahmaputra bridge views",
+        "8. Haflong - Assam's only hill station & Jatinga bird valley",
+        "9. Dibrugarh - Lush green tea estates & Dehing Patkai rainforest",
+        "10. Hajo - Ancient pilgrimage confluence for Hindus, Buddhists & Muslims"
+      ],
+      "hidden_gems": [
+        "Kakochang Waterfalls near Kaziranga",
+        "Panimoor Waterfalls in Dima Hasao",
+        "Pobitora Wildlife Sanctuary"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Assamese Fish Tenga (sour fish curry)",
+          "Duck Curry with Ash Gourd",
+          "Aloo Pitika",
+          "Pitha sweet rice cake",
+          "Khar"
+        ],
+        "vegetarian_vegan_options": "Aloo Pitika, Khar, Koldil (Banana flower curry), and Assamese Veg Thali are wholesome vegetarian dishes.",
+        "popular_street_food": [
+          "Jhalmuri",
+          "Pani Puri",
+          "Bamboo shoot fries"
+        ],
+        "budget_food_tips": "Traditional Assamese Thali at Paradise or Delicacy Guwahati costs ₹180-₹300."
+      },
+      "accommodations": {
+        "budget": "Eco lodges in Kaziranga & Majuli bamboo homestays (₹700 - ₹1,800/night)",
+        "mid_range": "3-star Guwahati city hotels & tea resort bungalows (₹2,500 - ₹5,500/night)",
+        "luxury": "IORA The Retreat Kaziranga & Vivanta Guwahati (₹12,000+/night)"
+      },
+      "practical_tips": [
+        "Book Kaziranga jeep and elephant safaris in advance (open Nov to April).",
+        "Take the ferry boat from Jorhat to explore Majuli island."
+      ],
+      "safety_and_etiquette": "Warm and hospitable tea-state culture.",
+      "source": "Assam Tourism Development Corporation 2026",
+      "tags": [
+        "assam",
+        "kaziranga",
+        "majuli",
+        "guwahati",
+        "kamakhya",
+        "manas",
+        "tea gardens",
+        "rhino",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_meghalaya",
+      "destination": "Meghalaya",
+      "country": "India",
+      "region": "India",
+      "category": "Abode of Clouds, Living Root Bridges & Waterfalls",
+      "best_time_to_visit": "October to April (Dry pleasant weather) & June to September (Monsoon waterfall season)",
+      "weather": "Summer (15-24°C), Monsoon (Heavy rains), Winter (4-16°C)",
+      "budget_range_usd": "30 - 85 USD per day",
+      "approx_budget_inr": "₹2,500 - ₹7,000 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "Shared local yellow taxis from Shillong, private tourist cabs",
+      "attractions": [
+        "1. Shillong - 'Scotland of the East', Elephant Falls, Umiam Lake & Police Bazar",
+        "2. Cherrapunji (Sohra) - Nohkalikai Falls (India's tallest plunge fall) & Mawsmai Caves",
+        "3. Dawki - Crystal clear Umngot River where boats float on air",
+        "4. Mawlynnong - Voted the 'Cleanest Village in Asia' & Sky Walk tree bridge",
+        "5. Nongriat (Sohra) - Double Decker Living Root Bridge bio-engineered by Khasi tribe",
+        "6. Laitlum Canyons - Panoramic green canyon edge overlooking deep valleys",
+        "7. Jowai & Krang Suri Waterfalls - Turquoise blue natural pool waterfall",
+        "8. Balpakram National Park - Canyon plateau & wildlife reserve",
+        "9. Mawsynram - Wettest place on planet Earth",
+        "10. Mawphlang Sacred Grove - Ancient protected virgin forest"
+      ],
+      "hidden_gems": [
+        "Wei Sawdong three-tiered waterfall",
+        "Garden of Caves in Sohra",
+        "Phe Phe Falls in Jaintia Hills"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Jadoh (Rice cooked with meat/spices)",
+          "Dohneiiong (Pork with black sesame)",
+          "Nakham Bitchi",
+          "Tungrymbai",
+          "Pukhlein sweet"
+        ],
+        "vegetarian_vegan_options": "Vegetarian Jadoh, Rice with Dal & local organic veggies, Pukhlein (fried rice-jaggery cake) are widely available.",
+        "popular_street_food": [
+          "Momos",
+          "Chowmein",
+          "Hot tea with pineapples"
+        ],
+        "budget_food_tips": "Local cafes in Shillong Laitumkhrah serve delicious meals for ₹150-₹280."
+      },
+      "accommodations": {
+        "budget": "Homestays in Cherrapunji & Shillong hostels (₹800 - ₹2,000/night)",
+        "mid_range": "Pinewood heritage hotels & cliff resorts (₹3,000 - ₹6,000/night)",
+        "luxury": "Ri Kynjai Resort on Umiam Lake (₹16,000+/night)"
+      },
+      "practical_tips": [
+        "Wear good trekking shoes for the 3,000-step trek down to Nongriat Double Decker Root Bridge.",
+        "Visit Dawki between November and February for crystal transparent river water."
+      ],
+      "safety_and_etiquette": "Matrilineal Khasi culture. Very safe and respectful community.",
+      "source": "Meghalaya Tourism Board 2026",
+      "tags": [
+        "meghalaya",
+        "shillong",
+        "cherrapunji",
+        "dawki",
+        "mawlynnong",
+        "root bridge",
+        "waterfalls",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1622396481328-9b1b78cdd9fd?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_ladakh",
+      "destination": "Ladakh",
+      "country": "India",
+      "region": "India",
+      "category": "Cold Desert, Pangong Lake, High Passes & Monasteries",
+      "best_time_to_visit": "May to September (Sunny summer days 15-25°C, high mountain passes open)",
+      "weather": "Summer (15-25°C, pleasant), Winter (-15 to 5°C, extreme cold & snow)",
+      "budget_range_usd": "40 - 110 USD per day",
+      "approx_budget_inr": "₹3,500 - ₹9,500 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa + Protected Area Permit (PAP) for Pangong/Nubra.",
+      "local_transport": "Local union taxis, rented Royal Enfield motorbikes, shared jeeps",
+      "attractions": [
+        "1. Pangong Tso Lake - High-altitude turquoise saltwater lake spanning India and Tibet",
+        "2. Leh - Leh Palace, Shanti Stupa, Hall of Fame & Leh Main Bazar",
+        "3. Nubra Valley - Hunder double-humped Bactrian camel ride & Diskit Monastery",
+        "4. Khardung La Pass - One of the world's highest motorable passes (17,582 ft)",
+        "5. Magnetic Hill & Confluence - Gravity hill & Zanskar-Indus river Sangam",
+        "6. Tso Moriri Lake - Pristine high-altitude lake in Changthang plateau",
+        "7. Zanskar Valley - Chadar frozen river trek & Phugtal monastery",
+        "8. Kargil & Drass - Kargil War Memorial & Tiger Hill view",
+        "9. Hemis & Thiksey Monastery - Largest Buddhist monastic complexes",
+        "10. Lamayuru Monastery - Surrealistic 'Moonland' rock landscape"
+      ],
+      "hidden_gems": [
+        "Turtuk village (Last northernmost village of India)",
+        "Hanle Dark Sky Reserve",
+        "Umling La Pass (Highest motorable road)"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Ladakhi Skyu (pasta stew)",
+          "Chutagi",
+          "Butter Tea (Gur Gur Chai)",
+          "Thukpa & Momos",
+          "Khambir bread"
+        ],
+        "vegetarian_vegan_options": "Veg Skyu, Chutagi, Veg Momos, Thukpa, and Tsampa (barley flour porridge) are staple vegetarian Ladakhi meals.",
+        "popular_street_food": [
+          "Fresh Khambir bread with jam",
+          "Hot Ladakhi Noodle Soup"
+        ],
+        "budget_food_tips": "Local cafes in Leh Main Market serve wholesome Ladakhi meals for ₹180-₹300."
+      },
+      "accommodations": {
+        "budget": "Homestays in Leh & Nubra camps (₹800 - ₹2,200/night)",
+        "mid_range": "3-star mountain view hotels & Pangong luxury tents (₹3,500 - ₹7,000/night)",
+        "luxury": "The Grand Dragon Ladakh & Chamba Camp Thiksey (₹22,000+/night)"
+      },
+      "practical_tips": [
+        "Rest completely for 24-36 hours upon arrival in Leh to acclimatize to high altitude.",
+        "Apply for Inner Line Permit (ILP) online for Nubra Valley and Pangong Lake."
+      ],
+      "safety_and_etiquette": "Extremely peaceful Buddhist culture. Keep oxygen cylinders handy during high pass travel.",
+      "source": "Ladakh Autonomous Hill Development Council (LAHDC) 2026",
+      "tags": [
+        "ladakh",
+        "leh",
+        "pangong lake",
+        "nubra valley",
+        "khardung la",
+        "magnetic hill",
+        "spiti",
+        "snow",
+        "mountains",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_jammu_kashmir",
+      "destination": "Jammu & Kashmir",
+      "country": "India",
+      "region": "India",
+      "category": "Paradise on Earth, Dal Lake Shikaras & Skiing",
+      "best_time_to_visit": "April to October (Lush flower valleys) & December to March (Gulmarg skiing & snow)",
+      "weather": "Summer (15-28°C), Winter (-5 to 10°C, heavy snowfall)",
+      "budget_range_usd": "35 - 100 USD per day",
+      "approx_budget_inr": "₹3,000 - ₹8,500 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required.",
+      "local_transport": "Srinagar Shikara boats, tourist taxis, Gulmarg Gondola ropeway",
+      "attractions": [
+        "1. Srinagar - Dal Lake Shikara ride, Luxury Houseboats, Mughal Gardens (Shalimar/Nishat) & Shankaracharya Temple",
+        "2. Gulmarg - Asia's highest Gondola cable car, skiing slopes & Apharwat Peak",
+        "3. Pahalgam - Betaab Valley, Aru Valley & Baisaran ('Mini Switzerland')",
+        "4. Sonamarg - Thajiwas Glacier trek & alpine flower meadows",
+        "5. Katra (Vaishno Devi) - Sacred Mata Vaishno Devi cave shrine pilgrimage",
+        "6. Patnitop - Skyview ropeway, Nathatop & Sanasar meadows",
+        "7. Doodhpathri - Untouched 'Valley of Milk' stream meadows",
+        "8. Dachigam National Park - Endangered Hangul (Kashmir Stag) sanctuary",
+        "9. Jammu City - Raghunath Temple & Bahu Fort",
+        "10. Yusmarg - Serene pine woods & Sang-e-Safed valley river"
+      ],
+      "hidden_gems": [
+        "Sinthan Top snow pass",
+        "Gurez Valley border landscape",
+        "Tulip Garden Srinagar (April bloom)"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Wazwan (Rogan Josh, Rista, Gushtaba)",
+          "Kashmiri Kahwa Tea",
+          "Dum Aloo",
+          "Modur Pulao",
+          "Haakh greens"
+        ],
+        "vegetarian_vegan_options": "Kashmiri Dum Aloo, Nadru Yakhni (Lotus stem curry), Haakh Saag, Modur Pulao, and Kahwa tea are famous vegetarian delights.",
+        "popular_street_food": [
+          "Tujji barbecue skewers",
+          "Kashmiri Naan bread",
+          "Kesar Kahwa"
+        ],
+        "budget_food_tips": "Dine at local Shamyana or Mughal Darbar restaurants in Srinagar for authentic meals."
+      },
+      "accommodations": {
+        "budget": "Standard Dal Lake Houseboats & Pahalgam lodges (₹1,000 - ₹2,500/night)",
+        "mid_range": "Luxury Dal Lake Houseboats & Gulmarg ski resorts (₹4,000 - ₹8,000/night)",
+        "luxury": "Khyber Himalayan Resort Gulmarg & Taj Dal View Srinagar (₹25,000+/night)"
+      },
+      "practical_tips": [
+        "Book Gulmarg Gondola Phase 1 & 2 tickets online weeks in advance.",
+        "Stay overnight on a traditional carved wooden Dal Lake houseboat."
+      ],
+      "safety_and_etiquette": "Warm Kashmiri hospitality ('Kashmiriyat'). Follow local tourist guidelines.",
+      "source": "Jammu & Kashmir Tourism Department 2026",
+      "tags": [
+        "jammu and kashmir",
+        "kashmir",
+        "srinagar",
+        "dal lake",
+        "gulmarg",
+        "pahalgam",
+        "sonamarg",
+        "vaishno devi",
+        "snow",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_india_andaman",
+      "destination": "Andaman & Nicobar Islands",
+      "country": "India",
+      "region": "India",
+      "category": "Tropical Island, Scuba Diving & White Sand Beaches",
+      "best_time_to_visit": "October to May (Sunny, blue sea water, ideal for water sports)",
+      "weather": "Tropical warm (24-31°C year-round). Monsoon (June-Sept, passing tropical rains)",
+      "budget_range_usd": "45 - 120 USD per day",
+      "approx_budget_inr": "₹3,500 - ₹10,000 per day",
+      "currency": "Indian Rupee (INR / ₹)",
+      "visa_requirements": "Indian e-Tourist Visa required. No RAP permit required for 30 open islands.",
+      "local_transport": "Inter-island ferries (Makruzz / Green Ocean), auto-rickshaws, scooter rentals",
+      "attractions": [
+        "1. Port Blair - Historic Cellular Jail (Kala Pani) Light & Sound show, Corbyn's Cove",
+        "2. Havelock Island (Swaraj Dweep) - Radhanagar Beach (Voted Best Beach in Asia) & Elephant Beach scuba",
+        "3. Neil Island (Shaheed Dweep) - Bharatpur Beach coral reef, Laxmanpur Beach sunset & Natural Bridge",
+        "4. Baratang Island - Dense mangrove boat safari & Limestone Caves",
+        "5. Ross Island (Netaji Dweep) - British colonial ruins & wild deer sanctuary",
+        "6. North Bay Island - Sea walk, glass-bottom boat & snorkeling",
+        "7. Wandoor & MG Marine National Park - Coral reef sanctuary",
+        "8. Jolly Buoy Island - Pristine underwater coral view",
+        "9. Diglipur - Ross & Smith twin islands connected by a natural sandbar",
+        "10. Chidiyatapu - 'Bird Island' & panoramic sunset point"
+      ],
+      "hidden_gems": [
+        "Guitar Island near Long Island",
+        "Kalapathar Beach quiet turquoise waters",
+        "Barren Island active volcano boat tour"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Fresh Grilled Lobster & Fish",
+          "Crab Curry",
+          "Coconut Seafood Curry",
+          "Indian Veg Thali"
+        ],
+        "vegetarian_vegan_options": "North and South Indian vegetarian thalis, paneer butter masala, dal tadka, and fresh fruit juices are served across Port Blair & Havelock.",
+        "popular_street_food": [
+          "Fresh Coconut Water",
+          "Fish Fry",
+          "Fruit Chat"
+        ],
+        "budget_food_tips": "Dine at Ananda Restaurant or Full Moon Cafe in Havelock for delicious meals."
+      },
+      "accommodations": {
+        "budget": "Guesthouses in Port Blair & beach huts in Havelock (₹1,200 - ₹2,800/night)",
+        "mid_range": "3-star beach resorts in Havelock & Neil (₹4,500 - ₹8,500/night)",
+        "luxury": "Taj Exotica Resort & Spa Radhanagar Beach (₹28,000+/night)"
+      },
+      "practical_tips": [
+        "Book private catamarans (Makruzz/Nautika) between Port Blair and Havelock in advance.",
+        "Scuba diving at Havelock Elephant Beach requires no prior swimming experience."
+      ],
+      "safety_and_etiquette": "Clean and pristine environment. Do not touch or collect live corals.",
+      "source": "Andaman & Nicobar Tourism Department 2026",
+      "tags": [
+        "andaman",
+        "havelock",
+        "port blair",
+        "neil island",
+        "radhanagar beach",
+        "scuba diving",
+        "beaches",
+        "india"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_japan_tokyo_kyoto",
+      "destination": "Tokyo & Kyoto",
+      "country": "Japan",
+      "region": "Asia",
+      "category": "Cultural & Modern Metropolis",
+      "best_time_to_visit": "March to May (Cherry Blossom) and September to November (Autumn foliage)",
+      "weather": "Spring (15-20°C), Summer (26-32°C), Autumn (15-22°C), Winter (2-10°C)",
+      "budget_range_usd": "150 - 300 USD per day",
+      "approx_budget_inr": "₹12,000 - ₹25,000 per day",
+      "currency": "Japanese Yen (JPY / ¥)",
+      "visa_requirements": "e-Visa available for many nationalities; single/multiple entry tourist visa required for Indian passport holders.",
+      "local_transport": "Shinkansen (Bullet Train), Tokyo Metro, Suica/Pasmo IC cards, Kyoto city bus pass",
+      "attractions": [
+        "Senso-ji Temple in Asakusa, Tokyo",
+        "Shibuya Crossing & Tokyo Skytree",
+        "Fushimi Inari Shrine (10,000 Torii gates) in Kyoto",
+        "Kinkaku-ji (Golden Pavilion) & Arashiyama Bamboo Grove in Kyoto",
+        "Mount Fuji day trip (Lake Kawaguchiko)"
+      ],
+      "hidden_gems": [
+        "Yanaka district (Old Tokyo vibe)",
+        "Gion geisha district at twilight",
+        "Kurama to Kibune mountain hike near Kyoto"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Ramen",
+          "Sushi & Sashimi",
+          "Tempura",
+          "Okonomiyaki",
+          "Matcha desserts"
+        ],
+        "vegetarian_vegan_options": "Buddhist Shojin Ryori cuisine available in temples; specialized vegan ramen shops in Tokyo and Kyoto.",
+        "popular_street_food": [
+          "Takoyaki (octopus balls)",
+          "Taiyaki (sweet fish pastries)",
+          "Yakitori skewers"
+        ],
+        "budget_food_tips": "Convenience stores (7-Eleven, Lawson, FamilyMart) offer fresh bento meals for under ¥600 ($4)."
+      },
+      "accommodations": {
+        "budget": "Capsule hotels (Nine Hours) & hostels (~$30-50/night)",
+        "mid_range": "Business hotels (APA Hotel, Daiwa Roynet) (~$80-140/night)",
+        "luxury": "Traditional Ryokans with private Onsen hot springs ($400+/night)"
+      },
+      "practical_tips": [
+        "Always carry cash as small ramen shops and temples do not take credit cards.",
+        "Do not tip in Japan; it is considered disrespectful."
+      ],
+      "safety_and_etiquette": "Extremely safe destination. Stand on the left side of escalators in Tokyo.",
+      "source": "Japan National Tourism Organization (JNTO) 2026",
+      "tags": [
+        "japan",
+        "tokyo",
+        "kyoto",
+        "cherry blossom",
+        "mount fuji",
+        "temples",
+        "sushi",
+        "asia"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_france_paris",
+      "destination": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "category": "Romance, Art & Historical Heritage",
+      "best_time_to_visit": "June to August (Summer events) and September to October (Milder crowd)",
+      "weather": "Spring (12-18°C), Summer (20-28°C), Autumn (10-16°C), Winter (3-8°C)",
+      "budget_range_usd": "160 - 320 EUR per day",
+      "approx_budget_inr": "₹15,000 - ₹28,000 per day",
+      "currency": "Euro (EUR / €)",
+      "visa_requirements": "Schengen Tourist Visa required for non-EU travelers.",
+      "local_transport": "Paris RER and Métro system (Navigo Easy card / t+ tickets), Velib' bike share system",
+      "attractions": [
+        "Eiffel Tower & Champ de Mars",
+        "Louvre Museum & Mona Lisa",
+        "Cathédrale Notre-Dame de Paris & Sainte-Chapelle",
+        "Montmartre & Sacré-Cœur Basilica",
+        "Palace of Versailles (day trip)"
+      ],
+      "hidden_gems": [
+        "Musée de l'Orangerie (Monet's Water Lilies)",
+        "Promenade Plantée elevated park",
+        "Le Marais boutique cafes"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Croissant & Pain au Chocolat",
+          "Boeuf Bourguignon",
+          "French Onion Soup",
+          "Duck Confit",
+          "Macarons"
+        ],
+        "vegetarian_vegan_options": "Widely available across Paris; trendy vegan bistros in Le Marais and 10th Arrondissement.",
+        "popular_street_food": [
+          "Crêpes (sweet nutella or savory galettes)",
+          "Baguette sandwiches",
+          "Fresh falafel"
+        ],
+        "budget_food_tips": "Order the fixed-price 'Formule Déjeuner' lunch menu at local bistros."
+      },
+      "accommodations": {
+        "budget": "Hostels in Canal Saint-Martin or Belleville (€40-70/night)",
+        "mid_range": "Boutique hotels in Latin Quarter or Montparnasse (€130-220/night)",
+        "luxury": "5-star luxury hotels near Place Vendôme (€700+/night)"
+      },
+      "practical_tips": [
+        "Book Louvre and Eiffel Tower tickets online at least 3-4 weeks in advance.",
+        "Greet shopkeepers with a friendly 'Bonjour' before asking questions."
+      ],
+      "safety_and_etiquette": "Beware of pickpockets near Eiffel Tower and crowded Métro lines.",
+      "source": "Atout France - Paris Tourist Bureau 2026",
+      "tags": [
+        "paris",
+        "france",
+        "eiffel tower",
+        "louvre",
+        "europe",
+        "romance",
+        "art",
+        "museums"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_uae_dubai",
+      "destination": "Dubai",
+      "country": "United Arab Emirates",
+      "region": "Middle East",
+      "category": "Futuristic Luxury, Shopping & Desert Adventures",
+      "best_time_to_visit": "November to April (Warm, sunny, 20-28°C outdoor season)",
+      "weather": "Summer (May-Sept, extreme heat 40-48°C), Winter (Nov-March, sunny & pleasant 18-28°C)",
+      "budget_range_usd": "150 - 350 USD per day",
+      "approx_budget_inr": "₹12,000 - ₹28,000 per day",
+      "currency": "UAE Dirham (AED)",
+      "visa_requirements": "Visa on arrival for select passports; 14-day & 30-day tourist visas easily issued online.",
+      "local_transport": "Dubai Metro (Red and Green lines), Nol Card, Careem / Uber taxis, Dubai Ferry",
+      "attractions": [
+        "Burj Khalifa (124th & 148th floor observation decks)",
+        "Dubai Mall & Dubai Fountain Show",
+        "Museum of the Future",
+        "Desert Safari with dune bashing, camel riding & BBQ dinner",
+        "Palm Jumeirah & Atlantis Aquaventure Waterpark"
+      ],
+      "hidden_gems": [
+        "Al Fahidi Historical Neighborhood & Bastakiya",
+        "Al Seef promenade along Dubai Creek",
+        "Hatta Dam kayaking"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Shawarma",
+          "Al Harees",
+          "Luqaimat sweet dumplings",
+          "Grilled Halloumi",
+          "Mandi Rice"
+        ],
+        "vegetarian_vegan_options": "Extremely veg-friendly; hundreds of South Indian, North Indian, and Middle Eastern vegetarian restaurants.",
+        "popular_street_food": [
+          "Karak Chai",
+          "Manakish flatbread",
+          "Falafel roll"
+        ],
+        "budget_food_tips": "Explore Karama and Deira for delicious meals under 20-30 AED ($6-8)."
+      },
+      "accommodations": {
+        "budget": "Hotels in Bur Dubai or Deira ($50 - $90/night)",
+        "mid_range": "Hotels in Al Barsha or Business Bay ($110 - $200/night)",
+        "luxury": "Burj Al Arab & Atlantis The Royal ($800+/night)"
+      },
+      "practical_tips": [
+        "Buy Metro Nol card at airport for seamless travel across Dubai transport.",
+        "Book Museum of the Future tickets at least 2 weeks ahead."
+      ],
+      "safety_and_etiquette": "One of the safest cities globally. Respect local laws.",
+      "source": "Dubai Economy and Tourism (DET) 2026",
+      "tags": [
+        "dubai",
+        "uae",
+        "burj khalifa",
+        "desert safari",
+        "middle east",
+        "luxury",
+        "shopping"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "dest_switzerland_alps",
+      "destination": "Swiss Alps & Zurich/Interlaken",
+      "country": "Switzerland",
+      "region": "Europe",
+      "category": "Alpine Mountains, Scenic Trains & Nature",
+      "best_time_to_visit": "June to September (Hiking) and December to March (Skiing)",
+      "weather": "Summer (18-25°C), Winter (-5 to 5°C, snowy in alpine peaks)",
+      "budget_range_usd": "220 - 450 USD per day",
+      "approx_budget_inr": "₹18,000 - ₹38,000 per day",
+      "currency": "Swiss Franc (CHF)",
+      "visa_requirements": "Schengen Visa required for non-EU travelers.",
+      "local_transport": "Swiss Travel Pass (Unlimited trains, boats, and buses), SBB Mobile app",
+      "attractions": [
+        "Jungfraujoch - Top of Europe (3,454m altitude)",
+        "Mount Titlis & Rotair revolving cable car",
+        "Matterhorn peak in Zermatt",
+        "Interlaken lakes (Lake Thun & Lake Brienz)",
+        "Glacier Express scenic train ride"
+      ],
+      "hidden_gems": [
+        "Lauterbrunnen Valley of 72 waterfalls",
+        "Oeschinensee mountain lake",
+        "Appenzell car-free village"
+      ],
+      "food_and_cuisine": {
+        "famous_dishes": [
+          "Swiss Cheese Fondue",
+          "Rösti",
+          "Raclette",
+          "Swiss Chocolates"
+        ],
+        "vegetarian_vegan_options": "Rösti and cheese fondue are widely available; Haus Hiltl in Zurich is the world's oldest vegetarian restaurant.",
+        "popular_street_food": [
+          "Cervelat sausage",
+          "Fresh baked pretzel",
+          "Fresh mountain cheese"
+        ],
+        "budget_food_tips": "Buy picnic lunches from Coop or Migros supermarkets to save up to 60% on meals."
+      },
+      "accommodations": {
+        "budget": "Alpine Youth Hostels ($50 - $90/night)",
+        "mid_range": "3-star alpine hotels in Interlaken ($160 - $280/night)",
+        "luxury": "5-star grand luxury mountain resorts ($600+/night)"
+      },
+      "practical_tips": [
+        "Get a Swiss Travel Pass if traveling for 3 days or more.",
+        "Check mountain weather webcams before taking cable cars."
+      ],
+      "safety_and_etiquette": "Tap water from fountains is 100% fresh, drinkable mountain water.",
+      "source": "MySwitzerland Official Tourism Portal 2026",
+      "tags": [
+        "switzerland",
+        "interlaken",
+        "zurich",
+        "jungfraujoch",
+        "matterhorn",
+        "europe",
+        "alps",
+        "trains"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=800&auto=format&fit=crop",
+      "food_image_url": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=800&auto=format&fit=crop"
+    }
+  ],
+  "faq_travel_tips": [
+    {
+      "topic": "Indian States Travel Guide Overview",
+      "keywords": [
+        "india states",
+        "top places in india",
+        "where to visit in india",
+        "best indian states"
+      ],
+      "content": "India features 28 States and 8 Union Territories offering diverse experiences: Rajasthan (Royal Forts & Deserts), Kerala (Backwaters & Ayurveda), Goa (Beaches & Nightlife), Himachal & Uttarakhand (Himalayan snow peaks & Yoga), Tamil Nadu & Andhra Pradesh (Dravidian Temples & Coastal Valleys), Karnataka (Hampi ruins & Coorg coffee), Uttar Pradesh (Taj Mahal & Varanasi spiritual ghats), and Telangana/Hyderabad (Nizam Palaces & Dum Biryani)."
+    }
+  ]
+}
