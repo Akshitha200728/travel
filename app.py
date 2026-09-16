@@ -218,7 +218,8 @@ def get_stats():
         "regions_covered": list(regions)
     })
 
-
 if __name__ == "__main__":
-    print("[TravelMate AI] Starting server on http://127.0.0.1:5000")
-    app.run(host="0.0.0.0", port=5000, debug=False, use_reloader=False)
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    print(f"[TravelMate AI] Starting server on http://0.0.0.0:{port}")
+    app.run(host="0.0.0.0", port=port, debug=False, use_reloader=False)
